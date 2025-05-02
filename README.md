@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building, learning, a
 
 ## 🧰 Tech Stack
 
-https://skillicons.dev/icons?i=js,ts,python,java,c,c++,react,nextjs,nodejs,express,django,flask,pytorch,spring,git,github,docker,kubernetes,vscode,linux,postman,nginx,mongodb,mysql
+[https://skillicons.dev/icons?i=js,ts,python,java,c,c++,react,nextjs,nodejs,express,django,flask,pytorch,spring,git,github,docker,kubernetes,vscode,linux,postman,nginx,mongodb,mysql]
 
 <!--## 📈 GitHub Stats
 
