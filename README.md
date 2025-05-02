@@ -28,8 +28,8 @@ Welcome to my GitHub! I'm a passionate developer who loves building, learning, a
 ## 🧰 Tech Stack
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,c++)
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask)
-![Tools](https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,pytorch,spring)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux,postman,nginx,mongodb,mysql)
 
 <!--## 📈 GitHub Stats
 
