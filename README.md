@@ -31,10 +31,10 @@ Welcome to my GitHub! I'm a passionate developer who loves building, learning, a
 ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask)
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux)
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 <!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manavmittal05&show_icons=true&theme=dark)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manavmittal05&layout=compact)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manavmittal05&layout=compact)-->
 
 ## ⚡ Fun Facts
 
